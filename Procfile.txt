@@ -1,1 +1,1 @@
-streamlit run projet_eC2F_Py.py
+web: sh setup.sh && streamlit run projet_eC2F_Py.py
