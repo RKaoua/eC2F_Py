@@ -45,8 +45,13 @@ au niveau national et régional.
 
 ## Code et ressources utilisés
 - **Python Version** : 3.8.5
-- **Packages**: 
-   - pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
+- **Librairies**: 
+   - pandas, 
+   - numpy, 
+   - sklearn, 
+   - matplotlib, 
+   - seaborn, 
+   - 
 
 
 
