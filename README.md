@@ -43,7 +43,15 @@ Et c’est dans cette démarche que s’inscrit notre projet « ***eC2F*** » *(
 d’analyser et d’estimer la consommation électrique afin d’adapter la production d’électricité
 au niveau national et régional.
 
-## Etapes du projet
+## Code et ressources utilisés
+Python Version: 3.7
+Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
+For Web Framework Requirements: pip install -r requirements.txt
+Scraper Github: https://github.com/arapfaik/scraping-glassdoor-selenium
+Scraper Article: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+Flask Productionization: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+
+## Fichiers du projet
 
 * Analyse exploratoire des données
     * Data Cleaning
