@@ -3,9 +3,9 @@
 ## Contexte du projet
 
 Ce projet a été réalisé dans le cadre du projet fil rouge de la formation *Data Analyst* par :
-* Aurélien BOYER
-* Reda KAOUA
-* Geoffroy LADONNE
+* [Aurélien BOYER](https://www.linkedin.com/in/aurelienboyerensci/)
+* [Reda KAOUA](https://www.linkedin.com/in/kaoua-reda/)
+* [Geoffroy LADONNE](https://www.linkedin.com/in/geoffroy-ladonne-8b40929a/)
 
 ## Sources des données
 
