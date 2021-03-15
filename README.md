@@ -39,7 +39,7 @@ le turbinage n'en crée, et engendre des pertes d’énergie allant de 15 à 30%
 Afin de répondre à cette problématique de stockage, il est nécessaire de pouvoir adapter  la
 production en fonction de la consommation.
 
-Et c’est dans cette démarche que s’inscrit notre projet « ***eC2F*** » *(Pour Electrical Consumption Forcating in France)*, qui a pour but
+Et c’est dans cette démarche que s’inscrit notre projet « ***eC2F*** » *(Pour **E**lectrical **C**onsumption **F**orcating in **F**rance)*, qui a pour but
 d’analyser et d’estimer la consommation électrique afin d’adapter la production d’électricité
 au niveau national et régional.
 
