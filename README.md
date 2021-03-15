@@ -44,6 +44,7 @@ d’analyser et d’estimer la consommation électrique afin d’adapter la prod
 au niveau national et régional.
 
 ## Code et ressources utilisés
+
 - **Python Version** : 3.8.5
 - **Librairies**: 
    - pandas, 
@@ -54,9 +55,17 @@ au niveau national et régional.
    - 
 
 
-
-
 ## Fichiers du projet
+
+- **Analyse_exploratoires.ipynb**
+- 
+- **Data_visualisation.ipynb**
+- 
+- **Régression_linéaire.ipynb**
+- 
+- **Séries_temporelles.ipynb**
+- 
+- **LSTM.ipynb**
 
 * Analyse exploratoire des données
     * Data Cleaning
