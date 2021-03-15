@@ -1,13 +1,13 @@
 # eC2F : Prévision de la consommation d'électricité en France
 
-### Contexte du projet
+## Contexte du projet
 
 Ce projet a été réalisé dans le cadre du projet fil rouge de la formation *Data Analyst* par :
 * Aurélien BOYER
 * Reda KAOUA
 * Geoffroy LADONNE
 
-### Sources des données
+## Sources des données
 
 Le jeu de données utilisé, provient de l’[Open Data Réseaux Energie (ODRE)](https://opendata.reseaux-energies.fr/explore/dataset/eco2mix-regional-cons-def/export/?disjunctive.libelle_region&disjunctive.nature&sort=-date_heure), il représente les données énergétiques régionales (au pas de 30 minutes) consolidées depuis janvier 2020 et définitives de janvier 2013 à décembre 2019, elles sont issues de l'application [éCO2mix](https://www.rte-france.com/eco2mix).
 
@@ -24,7 +24,7 @@ Le Data Set utilisé lors de notre étude, regroupe les données définitives de
 Le Data Set ainsi utilisé contient **1.665.216 lignes** et **66 colonnes**. 
 
 
-### Problématique
+## Problématique
 
 Une des principales problématiques d’un réseau de production électrique, est le stockage
 de l’électricité produite. En effet, actuellement le stockage électrique utilise des stations
@@ -43,7 +43,7 @@ Et c’est dans cette démarche que s’inscrit notre projet « ***eC2F*** » *(
 d’analyser et d’estimer la consommation électrique afin d’adapter la production d’électricité
 au niveau national et régional.
 
-### Etapes du projet
+## Etapes du projet
 
 * Analyse exploratoire des données
     * Data Cleaning
