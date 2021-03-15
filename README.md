@@ -1,6 +1,6 @@
 # eC2F : Prévision de la consommation d'électricité en France
 
-## Contexte du projet
+## Contributeurs
 
 Ce projet a été réalisé dans le cadre du projet fil rouge de la formation *Data Analyst* par :
 * [Aurélien BOYER](https://www.linkedin.com/in/aurelienboyerensci/)
@@ -44,12 +44,12 @@ d’analyser et d’estimer la consommation électrique afin d’adapter la prod
 au niveau national et régional.
 
 ## Code et ressources utilisés
-Python Version: 3.7
-Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
-For Web Framework Requirements: pip install -r requirements.txt
-Scraper Github: https://github.com/arapfaik/scraping-glassdoor-selenium
-Scraper Article: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
-Flask Productionization: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+- Python Version: **3.8.5**
+- Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
+- For Web Framework Requirements: pip install -r requirements.txt
+- Scraper Github: https://github.com/arapfaik/scraping-glassdoor-selenium
+- Scraper Article: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+- Flask Productionization: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
 ## Fichiers du projet
 
