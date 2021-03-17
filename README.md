@@ -43,6 +43,22 @@ Le Data Set ainsi utilisé contient **1.665.216 lignes** et **66 colonnes**.
    - 
 
 
-## Fichiers du projet
+## Modèles implémentés
+
+- **Modèles de Régression**
+   - SGD Regressor
+   - Ridge
+   - Lasso
+   - Elastic Net
+- **Modèles de Séries Temporelles**
+   - SARIMAX
+   - ARIMA
+- **Modèle de Réseaux de Neuronnes Récurrents**
+   - LSTM
+
+
+## Rapport du projet 
+
+Le rapport du projet peut être téléchargé [ici](https://github.com/DataScientest/EC2F-PY/blob/main/Rapport%20du%20projet%20eC2F_Py.pdf)
 
 
