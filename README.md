@@ -31,7 +31,7 @@ Le Data Set utilisé lors de notre étude, regroupe les données définitives de
 Le Data Set ainsi utilisé contient **1.665.216 lignes** et **66 colonnes**. 
 
 
-## Code et ressources utilisés
+## Ressources utilisés
 
 - **Python Version** : 3.8.5
 - **Librairies**: 
@@ -40,7 +40,17 @@ Le Data Set ainsi utilisé contient **1.665.216 lignes** et **66 colonnes**.
    - sklearn, 
    - matplotlib, 
    - seaborn, 
-   - 
+   - print_function,
+   - interact, 
+   - interactive, 
+   - fixed, 
+   - interact_manual,
+   - ipywidgets,
+   - fiona,
+   - descartes,
+   - geopandas,
+   - json,
+   - bokeh 
 
 
 ## Modèles implémentés
@@ -59,6 +69,6 @@ Le Data Set ainsi utilisé contient **1.665.216 lignes** et **66 colonnes**.
 
 ## Rapport du projet 
 
-Le rapport du projet peut être téléchargé [ici](https://github.com/DataScientest/EC2F-PY/blob/main/Rapport%20du%20projet%20eC2F_Py.pdf)
+Le rapport du projet est disponible [ici](https://github.com/DataScientest/EC2F-PY/blob/main/Rapport%20du%20projet%20eC2F_Py.pdf)
 
 
