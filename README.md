@@ -69,6 +69,6 @@ Le Data Set ainsi utilisé contient **1.665.216 lignes** et **66 colonnes**.
 
 ## Rapport du projet 
 
-Le rapport du projet est disponible [ici](https://github.com/DataScientest/EC2F-PY/blob/main/Rapport%20du%20projet%20eC2F_Py.pdf)
+Le rapport du projet est disponible [ici](https://github.com/RKaoua/eC2F_Py/blob/main/Rapport%20du%20projet%20eC2F_Py.pdf)
 
 
