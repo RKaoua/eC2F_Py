@@ -2,7 +2,7 @@
 
 ## Prévision de la consommation d'électricité en France
 
-Ce projet a été réalisé dans le cadre du projet fil rouge de la formation *Data Analyst* pour répondre à une des principales problématiques d’un réseau de production électrique, qui est le stockage de l'électricité produite. En effet les méthodes actuelles de stockage d'électricité consomment plus d'énergie qu'elles n'en fournissent ([Article : Stockage d'électricité](https://www.ecosources.info/dossiers/Station_stockage_transfert_pompage_turbinage)  
+Ce projet a été réalisé dans le cadre du projet fil rouge de la formation *Data Analyst* pour répondre à une des principales problématiques d’un réseau de production électrique, qui est le stockage de l'électricité produite. En effet les méthodes actuelles de stockage d'électricité consomment plus d'énergie qu'elles n'en fournissent ([Article : Stockage d'électricité](https://www.ecosources.info/dossiers/Station_stockage_transfert_pompage_turbinage))  
 
 Afin de répondre à cette problématique, le projet « ***eC2F*** » *(Pour **E**lectrical **C**onsumption **F**orcating in **F**rance)*, a pour but
 d’analyser et d’estimer la consommation électrique afin d’adapter la production d’électricité au niveau national et régional, et d'éviter les surplus de production.
