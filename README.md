@@ -1,8 +1,15 @@
-# eC2F : Prévision de la consommation d'électricité en France
+# Prjet eC2F  
+
+## Prévision de la consommation d'électricité en France
+
+Ce projet a été réalisé dans le cadre du projet fil rouge de la formation *Data Analyst* pour répondre à une des principales problématiques d’un réseau de production électrique, qui est le stockage de l'électricité produite. En effet les méthodes actuelles de stockage d'électricité consomment plus d'énergie qu'elles n'en fournissent ([Article : Stockage d'électricité](https://www.ecosources.info/dossiers/Station_stockage_transfert_pompage_turbinage)  
+
+Afin de répondre à cette problématique, le projet « ***eC2F*** » *(Pour **E**lectrical **C**onsumption **F**orcating in **F**rance)*, a pour but
+d’analyser et d’estimer la consommation électrique afin d’adapter la production d’électricité au niveau national et régional, et d'éviter les surplus de production.
 
 ## Contributeurs
 
-Ce projet a été réalisé dans le cadre du projet fil rouge de la formation *Data Analyst* par :
+Ce projet a été réalisé par :
 * [Aurélien BOYER](https://www.linkedin.com/in/aurelienboyerensci/)
 * [Reda KAOUA](https://www.linkedin.com/in/kaoua-reda/)
 * [Geoffroy LADONNE](https://www.linkedin.com/in/geoffroy-ladonne-8b40929a/)
@@ -24,25 +31,6 @@ Le Data Set utilisé lors de notre étude, regroupe les données définitives de
 Le Data Set ainsi utilisé contient **1.665.216 lignes** et **66 colonnes**. 
 
 
-## Problématique
-
-Une des principales problématiques d’un réseau de production électrique, est le stockage
-de l’électricité produite. En effet, actuellement le stockage électrique utilise des stations
-de pompage-turbinage entre deux retenues d’eau situées à deux altitudes différentes, où l’eau
-est pompée vers le bassin supérieur pendant les heures de faible consommation alors que pendant
-les heures de pointe, l'eau passe dans une turbine qui produit un appoint d'électricité sur le
-réseau.
-
-Concrètement, cette technique de stockage consomme plus d’énergie pour le pompage de l'eau que
-le turbinage n'en crée, et engendre des pertes d’énergie allant de 15 à 30%.
-
-Afin de répondre à cette problématique de stockage, il est nécessaire de pouvoir adapter  la
-production en fonction de la consommation.
-
-Et c’est dans cette démarche que s’inscrit notre projet « ***eC2F*** » *(Pour **E**lectrical **C**onsumption **F**orcating in **F**rance)*, qui a pour but
-d’analyser et d’estimer la consommation électrique afin d’adapter la production d’électricité
-au niveau national et régional.
-
 ## Code et ressources utilisés
 
 - **Python Version** : 3.8.5
@@ -57,29 +45,4 @@ au niveau national et régional.
 
 ## Fichiers du projet
 
-- **Analyse_exploratoires.ipynb**
-- 
-- **Data_visualisation.ipynb**
-- 
-- **Régression_linéaire.ipynb**
-- 
-- **Séries_temporelles.ipynb**
-- 
-- **LSTM.ipynb**
 
-* Analyse exploratoire des données
-    * Data Cleaning
-    * Data Preprocessing
-
-* Analyses Statistiques et Data Visualisation
-    * Analyse de la distribution des variables.
-    * Analyse de la consommation électrique.
-    * Analyse de la Production électrique.
-    * Focus sur la Production des énergies renouvelabes
-
-* Modélisation
-    * Mise en place de modèles de _Régression_ : SGD, Ridge, Lasso et Elastic Net
-
-    * Mise en place de modèles de _Séries Temporelles_ : SARIMAX et ARIMA
-
-    * Mise en place d'un modèle de _Réseau de Neurones Récurrents_ : LSTM
